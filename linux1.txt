@@ -1,0 +1,24 @@
+Last login: Sat Mar 23 12:44:17 on ttys001
+(base) Aidans-iPhone:~ mac.admin$ ls
+AT.postflight.1434	MONTY NUMPY .ipynb	Pictures
+Applications		MontyHall  Python.ipynb	Public
+Desktop			Movies			Untitled.ipynb
+Documents		Music			Untitled1.ipynb
+Downloads		NUMPY MontyHall.ipynb	Warm Lamp Games
+Library			Numpy Monty.ipynb
+(base) Aidans-iPhone:~ mac.admin$ cd Documents
+(base) Aidans-iPhone:Documents mac.admin$ cd..
+-bash: cd..: command not found
+(base) Aidans-iPhone:Documents mac.admin$ cd ..
+(base) Aidans-iPhone:~ mac.admin$ cd Public
+(base) Aidans-iPhone:Public mac.admin$ cd ~/Library
+(base) Aidans-iPhone:Library mac.admin$ pwd
+/Users/mac.admin/Library
+(base) Aidans-iPhone:Library mac.admin$ 
+
+
+
+
+
+
+

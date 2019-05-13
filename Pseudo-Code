@@ -1,0 +1,15 @@
+Variables
+  nombre
+  i
+
+
+DEBUT
+  
+  Afficher "Choisissez un nombre :"
+  Demander nombre
+  
+  Tant que i inférieur à nombre
+    Afficher "Bienvenue à la wild"
+  Fin Tant que
+
+FIN

@@ -10,6 +10,7 @@ DEBUT
   
   Tant que i inférieur à nombre
     Afficher "Bienvenue à la wild"
+    i <- i + 1
   Fin Tant que
 
 FIN
